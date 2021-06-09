@@ -7,7 +7,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from time import strftime
 
 start = time.time()
-
+#test czy umiem wrzucac na gita123
 path = "C:\\Users\\Jakub\\PycharmProjects\\test2\\testownik11_prof_Robert_Krol\\projekt_2\\POLKOWICE_etap_2\\simulation_0\\simulation_0.dem"
 deck = Deck(path)
 
